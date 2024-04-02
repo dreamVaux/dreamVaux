@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 Here are some information about me:
-> <img align="right" alt="Programming" src="coding.png" height="150" />
+> <img align="right" alt="Programming" src="images/coding.png" height="150" />
 - 🔭 I’m currently working on HyperionDev Data Science Bootcamp.
 - 🌱 I’m currently learning Python, Computer Science, and Data Science.
 - 👯 I’m looking to collaborate on Data Science project in technology companies.
