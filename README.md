@@ -7,7 +7,7 @@ Here are some information about me:
 - 👯 I’m looking to collaborate on Data Science project in technology companies.
 - 💼 Work experience: 4 years in SYM as Project coordinator, Marketing and President's office associate
 - 🎓 Education: MBA(University of Glasgow), BS in Medical Science(National Tsing Hua University)
-- 📫 How to reach me:
+- 📫 See more about me:
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
