@@ -1,10 +1,10 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
 Here are some information about me:
-
+> <img align="right" alt="Programming" src="coding.png" height="150" />
 - 🔭 I’m currently working on HyperionDev Data Science Bootcamp.
 - 🌱 I’m currently learning Python, Computer Science, and Data Science.
-- 👯 I’m looking to collaborate on potential Data Science project in technology companies.
+- 👯 I’m looking to collaborate on Data Science project in technology companies.
 - 💼 Work experience: 4 years in SYM as Project coordinator, Marketing and President's office associate
 - 🎓 Education: MBA(University of Glasgow), BS in Medical Science(National Tsing Hua University)
 - 📫 How to reach me:
