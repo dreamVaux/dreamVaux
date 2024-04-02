@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**dreamVaux/dreamVaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
