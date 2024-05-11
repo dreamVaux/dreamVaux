@@ -5,7 +5,7 @@ Here are some information about me:
 - 🔭 I’m currently working on HyperionDev Data Science Bootcamp.
 - 🌱 I’m currently learning Python, Computer Science, and Data Science.
 - 👯 I’m looking to collaborate on Data Science project in technology companies.
-- 💼 Work experience: 4 years in SYM as Project coordinator, Marketing and President's office administrator
+- 💼 Work experience: 4 years in SYM as Project Manager, Overseas Marketing and President's Office Executive
 - 🎓 Education: MBA(University of Glasgow), BS in Medical Science(National Tsing Hua University)
 - 📫 See more about me:
 
